@@ -117,11 +117,18 @@ const socialsData = [
         description: "Subscribe for bot tutorials and tech content",
     },
     {
-        name: "WHATSAPP CHANNEL",
+        name: "WHATSAPP CHANNEL1",
         icon: "fab fa-whatsapp",
         emoji: "💬",
         link: "https://whatsapp.com/channel/0029Vb6XQInFXUud1tMwcu0G",
-        description: "Join our WhatsApp channel for updates",
+        description: "Join our WhatsApp channel 1 for updates",
+    },
+    {
+        name: "WHATSAPP CHANNEL2",
+        icon: "fab fa-whatsapp",
+        emoji: "🧬",
+        link: "https://whatsapp.com/channel/0029VbAskavKbYMOfucNZ31r",
+        description: "Join our WhatsApp channel 2 for updates",
     },
     {
         name: "TELEGRAM",
